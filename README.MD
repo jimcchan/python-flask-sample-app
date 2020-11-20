@@ -26,4 +26,11 @@ and then in the new command promt run
 
 There is also a [codefresh.yml](codefresh.yml) for easy usage with the [Codefresh](codefresh.io) CI/CD platform.
 
+Prerequisites for the codefresh tutorial:
+
+1) A free GitHub account
+2) A free Codefresh account
+3) An account to a Docker registry service
+4) The source code of the sample application
+
 More details can be found in [Codefresh documentation](https://codefresh.io/docs/docs/getting-started/create-a-basic-pipeline/)
